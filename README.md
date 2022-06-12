@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Lalit
-- 👀 I’m interested in JAVA PROGRAMMING and WEB DEVELOPEMENT
-- 🌱 I’m currently learning ...Basics of Python, Basics of C++ and Basics of C programming
-- 💞️ I’m looking to collaborate on WEB DEVELOPEMENT
-- 📫 Reach me at lalitcool145@gmail.com
+- 👋 Hi, I’m @Lalit.
+- 👀 I’m interested in JAVA PROGRAMMING and WEB DEVELOPEMENT.
+- 🌱 I’m currently learning ...Basics of C programming and JAVA programming.
+- 💞️ I’m looking to collaborate on WEB DEVELOPEMENT.
+- 📫 Reach me at lalitcool145@gmail.com.
 
 <!---
 Lalit145/Lalit145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
