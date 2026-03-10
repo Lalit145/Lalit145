@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning REACT js<br>Ask me About HTML, CSS, JS, JAVA, Python, C
+Proficient in REACT js<br>Ask me About HTML, CSS, JS, JAVA, Python, C
 
 
 # 💻 Tech Stack:
