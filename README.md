@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lalit Mohan Singh</h1>
-<h3 align="center">Aspiring Data/ML Engineer | Software Developer | Problem Solver</h3>
+<h3 align="center">Software Developer| Aspiring Data/ML Engineer  | Problem Solver</h3>
 
 <p align="center">
-  <a href="mailto:lalitcool145@gmail.com">Email</a> •
+  <a href="mailto:lalitms145@gmail.com">Email</a> •
   <a href="https://linkedin.com">LinkedIn</a> •
   <a href="https://github.com/Lalit145">GitHub</a> •
   <a href="https://leetcode.com">LeetCode</a>
@@ -13,7 +13,7 @@
 ## 🧠 About Me
 
 - 🎓 B.Tech in Information Technology (CGPA: 7.5)
-- 💡 Passionate about **Machine Learning, Data Engineering, and Scalable Systems**
+- 💡 Passionate about ** Problem Solving, Software Development, Machine Learning, Data Engineering, and Scalable Systems**
 - 🔍 Strong foundation in **DSA, DBMS, OS, and Computer Networks**
 - 🧩 Solved 100+ problems on LeetCode
 - 🚀 Currently building real-world projects and improving system design skills
@@ -86,15 +86,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lalit145&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalit145&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 🔥 What I'm Working On
 
 - 📈 Improving Data Structures & Algorithms
@@ -106,8 +97,8 @@
 
 ## 🤝 Let's Connect
 
-- 📧 Email: lalitcool145@gmail.com
-- 💼 Open to opportunities in **Data/ML Engineering & Software Development**
+- 📧 Email: lalitms145@gmail.com
+- 💼 Open to opportunities in **Software Development & Data/ML Engineering **
 
 ---
 
