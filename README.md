@@ -1,27 +1,114 @@
-# 💫 About Me:
-Proficient in REACT js<br>Ask me About HTML, CSS, JS, JAVA, Python, C
+<h1 align="center">Hi 👋, I'm Lalit Mohan Singh</h1>
+<h3 align="center">Aspiring Data/ML Engineer | Software Developer | Problem Solver</h3>
 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Lalit145&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Lalit145&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lalit145&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Lalit145&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Lalit145&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<p align="center">
+  <a href="mailto:lalitcool145@gmail.com">Email</a> •
+  <a href="https://linkedin.com">LinkedIn</a> •
+  <a href="https://github.com/Lalit145">GitHub</a> •
+  <a href="https://leetcode.com">LeetCode</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Lalit145&icon=9&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+- 🎓 B.Tech in Information Technology (CGPA: 7.5)
+- 💡 Passionate about **Machine Learning, Data Engineering, and Scalable Systems**
+- 🔍 Strong foundation in **DSA, DBMS, OS, and Computer Networks**
+- 🧩 Solved 100+ problems on LeetCode
+- 🚀 Currently building real-world projects and improving system design skills
+
+---
+
+## ⚙️ Tech Stack
+
+### 💻 Languages
+- Java
+- Python
+
+### 🌐 Frontend
+- React.js
+- HTML, CSS, JavaScript
+
+### 🧠 Machine Learning
+- TensorFlow
+- Keras
+- CNN (Deep Learning)
+
+### 🗄️ Databases
+- MySQL
+
+### 📊 Data Tools
+- Power BI (DAX, Power Query)
+- Tableau
+- Excel
+
+### 🛠️ Tools
+- Git & GitHub
+- Postman
+
+---
+
+## 📌 Projects
+
+### 🎵 Raga Identification using Deep Learning
+- Built a CNN model to classify Indian classical ragas
+- Converted audio into spectrograms for training
+- Achieved ~85% accuracy
+- Tech: Python, TensorFlow, Keras
+
+---
+
+### 🌦️ Weather 2.0 App
+- Responsive weather app using real-time API
+- Integrated OpenWeatherMap API
+- Focused on UI/UX and mobile-first design
+- Tech: HTML, CSS, JavaScript
+
+---
+
+### 📝 Note Keeping Application
+- CRUD-based notes app using local storage
+- Event-driven architecture
+- Clean modular JS implementation
+- Tech: HTML, CSS, JavaScript
+
+---
+
+## 🏆 Achievements
+
+- 🥇 AIR 563 | Google HashCode 2022
+- 🌍 Global Rank 1952 | Google HashCode
+- 🏅 Rank 327 | Reply Code Challenge
+- ⭐ 6-Star Coder on HackerRank (Java, Python)
+- 💯 Solved 100+ DSA problems on LeetCode
+- 🚀 Top 4 Teams | Department Hackathon
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lalit145&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalit145&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🔥 What I'm Working On
+
+- 📈 Improving Data Structures & Algorithms
+- 🤖 Building ML-based applications
+- 🌐 Creating scalable web applications
+- 🧠 Exploring system design concepts
+
+---
+
+## 🤝 Let's Connect
+
+- 📧 Email: lalitcool145@gmail.com
+- 💼 Open to opportunities in **Data/ML Engineering & Software Development**
+
+---
+
+⭐ *"Code. Learn. Build. Repeat."*
