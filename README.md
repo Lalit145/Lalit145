@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lalit Mohan Singh</h1>
-<h3 align="center">Software Developer| Aspiring Data/ML Engineer  | Problem Solver</h3>
+<h3 align="center">Software Developer| Data/ML Engineer  | Problem Solver</h3>
 
 <p align="center">
   <a href="mailto:lalitms145@gmail.com">Email</a> •
